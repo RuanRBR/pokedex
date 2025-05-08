@@ -1,19 +1,26 @@
+* {
+  font-family: 'Press Start 2P', cursive;
+}
+
 body {
     font-family: Arial, sans-serif;
-    background-color: #f2f2f2;
+    
     text-align: center;
     margin: 0;
     padding: 20px;
+    background-color: #202020;
+    color: #fff;
   }
   
   .pokedex {
     max-width: 400px;
     margin: auto;
     padding: 20px;
-    background-color: #e3350d;
-    color: white;
     border-radius: 15px;
     box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    background-color: #ffcb05;
+  color: #3b4cca;
+  border: 4px solid #3b4cca;
   }
   
   .search-box {
